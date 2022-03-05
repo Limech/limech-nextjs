@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Limech.com</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to Limech.com" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Great things coming here soon!
         </p>
       </main>
 
